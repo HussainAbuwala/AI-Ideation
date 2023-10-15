@@ -4,6 +4,8 @@ import { auth } from "@clerk/nextjs/server";
 import { NextResponse } from "next/server";
 import { generateImagePrompt, generateImage } from "@/lib/openai";
 
+export const runtime = "edge";
+
 export async function POST(req: Request) {
     const { userId } = auth();
     if (!userId) {
