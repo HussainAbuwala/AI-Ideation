@@ -10,6 +10,7 @@ import { Button } from '@/components/ui/button';
 import TipTapEditor from '@/components/TipTapEditor';
 import DeleteButton from '@/components/DeleteButton';
 import DeleteNoteDialog from '@/components/DeleteNoteDialog';
+import { ArrowLeft } from 'lucide-react';
 
 
 
@@ -41,6 +42,7 @@ const NotebookPage = async ({ params: { noteId } }: Props) => {
                 <div className="border shadow-xl border-stone-200 rounded-lg p-4 flex items-center">
                     <Link href="/dashboard">
                         <Button className="bg-green-600" size="sm">
+                            <ArrowLeft className="mr-1 w-4 h-4" />
                             Back
                         </Button>
                     </Link>

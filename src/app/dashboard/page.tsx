@@ -53,7 +53,6 @@ const DashboardPage = async (props: Props) => {
                         </div>
                     )}
 
-
                     {/* display all the notes */}
                     <div className="grid sm:grid-cols-3 md:grid-cols-5 grid-cols-1 gap-3">
                         <CreateNoteDialog />

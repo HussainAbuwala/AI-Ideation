@@ -15,9 +15,9 @@ export default function Home() {
           </h1>
           <div className="mt-4"></div>
           <h2 className="font-semibold text-3xl text-center text-slate-700">
-          
             <TypewriterTitle />
           </h2>
+          <h1 className="text-center mt-2 text-3xl">🚀 🔥 🤖</h1>
           <div className="mt-8"></div>
   
           <div className="flex justify-center">
