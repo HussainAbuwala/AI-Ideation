@@ -2,6 +2,9 @@
 
 Are you tired of staring at a blank page, struggling to find inspiration for your notes and ideas? Look no further – AI Ideation is here to transform the way you capture and develop your thoughts.
 
+![Screen Recording 2023-10-15 at 4 57 19 PM](https://github.com/HussainAbuwala/AI-Ideation/assets/77569166/ed7d0342-5768-477e-bd5a-5c1a8fc0c287)
+
+
 ## Key Features
 
 ### Create Personalized Notebooks
