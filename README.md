@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introducing AI Ideation: Your Ultimate AI-Powered Note Assistant
 
-## Getting Started
+Are you tired of staring at a blank page, struggling to find inspiration for your notes and ideas? Look no further – AI Ideation is here to transform the way you capture and develop your thoughts.
 
-First, run the development server:
+## Key Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Create Personalized Notebooks
+With AI Ideation, you can effortlessly create personalized notebooks by giving them unique names. The magic begins right here. Your notebook's name becomes the source of inspiration for a striking, AI-generated image, thanks to the powerful DALL-E model from OpenAI.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Text Editor
+Within your custom-made notebooks, our text editor lets you unleash your creativity. Format and craft your notes with ease, making your ideas come to life.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Instant Idea Generation
+We all hit roadblocks in our creative journeys. That's where AI Ideation shines. Press Shift + A in your text editor, and let our AI-powered auto-completion feature take over. It provides you with insightful suggestions, helping you navigate your train of thought with newfound clarity and creativity.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Secure User Accounts:
+Your notes are valuable, and we understand that. AI Ideation allows you to sign up and create your own account, ensuring that your notebooks are stored safely and separately from others.
 
-## Learn More
+# Installation
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository: `git clone https://github.com/HussainAbuwala/AI-Ideation.git`
+2. Navigate to the project directory: `cd AI-Ideation`
+3. Install the dependencies: `npm install`
+4. Start the app: `npm run dev`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tools & Languages Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Tailwind CSS
+2. JavaScript
+3. React
+4. TypeScript
+5. Shadcn
+6. NeonDB (Serverless Postgres)
+7. Next.js 13
+8. Drizzle ORM
+9. Firebase Storage
+10. TipTap WYSIWYG Editor
+11. Vercel
+12. Clerk
+13. GitHub
